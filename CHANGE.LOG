@@ -1,0 +1,51 @@
+v5.0.0 beta3: (2012-5-20)
+ *Add the time to the log file. (Only English Version, next version can fix it)
+ *Some words translate to English. But some words is the Chinese (in the English 
+  Version).
+ *Made a exe file to install.
+
+v5.0.0 beta4: (2012-5-20)
+ *Fix 4 bugs (details: BugReport_2012-5-20.txt)
+ *Update the system tools.
+ *Some words translate to English. But some words is the Chinese (in the English 
+  Version).
+ *The Chinese version is stoping developing.
+
+v5.0.0 beta5: (2012-5-30)
+ *Some words translate to English. But some words is the Chinese (in the English 
+  Version).
+ *Command-line commands are supported. Usage: acehrsys [Command] . Details: scre
+  enshots\v500beta5_1.bmp .
+ *You can download the Updater to update you installed ACEHRSYS.
+v5.0.0 beta6: (2012-6-1)
+ *Some words translate to English. But some words is the Chinese (in the English 
+  Version).
+ *The files is managed by Lazarus.
+ *The tools are updated.
+v5.0.0 beta7: (2012-6-2)
+ *Some words translate to English. But some words is the Chinese (in the English
+  Version).
+ *The "use" command can auto select a room to use.
+v5.0.0 beta8: (2012-6-13)
+ *All of the words translate to English. (in the English Version).
+ *Update the release date.
+ *Fix some bugs.
+ *Now you can run "acehrsys --help" to get the command-line usage.
+ *The first version compiled on Linux with FPC. You can download the Windows Ver-
+  sion on ACEHRS.SourceForge.Net soon. (Thanks SourceForge.Net)
+ *Tools updated.
+ *The infomation at the beginning of acehrsys.pas updated.
+ *The "cluse" command can run the acehrsmfset when the price is wrong.
+ *This is the last beta version of v5.0.0 . The final version will release on
+  Around The World. (Details about Around The World : htpp://lyqqteam.blog.com/atw/
+  
+v5.0.0 Preview1: (2012-8-25)
+ *Add date to log.
+ *Project information updated in "About".
+ *Record all check in/out and money.
+ *update acehrsclr to clear record.
+v5.0.0 Preview2: (2012-8-29)
+ *The command "ipr" is in "ls" now. You cann't use the "ipr" any more.
+ *Project information updated in the command "abt".
+ *There is a shortest way to get help: Just type "?".
+ *There is a DOS-like way to get usage: acehrsys /?
