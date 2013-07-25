@@ -88,6 +88,10 @@ begin
  writeln(' Blogs:');
  writeln('  http://laosb.lasteam.tk/ (Pater Lv)');
  writeln('  http://zzxzhuo.lasteam.tk/ (Mike Zhuo)');
+ writeln(' Wibo(Tencent):');
+ writeln('  @aceworkshop (Pater Lv)');
+ writeln('  @lastran (Team)');
+ writeln('  @zzxzhuo (MikeZhuo)');
  writeln(' Source Code:');
  writeln('  acehrsys.pas    System source code.');
  writeln('  acehrsclr.pas   System cleaner source code.');
